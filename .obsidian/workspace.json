@@ -1,0 +1,204 @@
+{
+  "main": {
+    "id": "5d5eebcc23ce2ca5",
+    "type": "split",
+    "children": [
+      {
+        "id": "adc9926d966a3d9c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "319be11f72156a5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01-DockerLabs/01-MyFacil/01-Injection.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "01-Injection"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dafd52db51369fbb",
+    "type": "split",
+    "children": [
+      {
+        "id": "369ab0046a96b305",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a4b1007b9c57fff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "7f165a43157d29a3",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "278f317d0935c2dd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "acaf42dd2d10634b",
+    "type": "split",
+    "children": [
+      {
+        "id": "a8c48592c58d653c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "615363adb3d54542",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "( 1 )DockerLabs/( 2 )Facil/( 11 ) SecretJenkins Docker Labs.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de ( 11 ) SecretJenkins Docker Labs"
+            }
+          },
+          {
+            "id": "f67dc69b2607b49a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "( 1 )DockerLabs/( 2 )Facil/( 11 ) SecretJenkins Docker Labs.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de ( 11 ) SecretJenkins Docker Labs"
+            }
+          },
+          {
+            "id": "1b9bed5ec2d54263",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "cd91997a93d6e1fc",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "( 1 )DockerLabs/( 2 )Facil/( 11 ) SecretJenkins Docker Labs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de ( 11 ) SecretJenkins Docker Labs"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "319be11f72156a5e",
+  "lastOpenFiles": [
+    "README.md",
+    "LICENSE.md.md",
+    "01-DockerLabs/02-Facil/21-Galeria.md",
+    "02-Vulnhub/03-Presidential 1.md",
+    "02-Vulnhub/02-Symfonos6.1.md",
+    "02-Vulnhub/01-IMF 1.md",
+    "02-Vulnhub/04-Infovore 1.md",
+    "01-DockerLabs/01-MyFacil/09-Obsession.md",
+    "01-DockerLabs/01-MyFacil/08-Tproot.md",
+    "01-DockerLabs/01-MyFacil/07-Vacaciones.md",
+    "01-DockerLabs/01-MyFacil/06-BorazuwarahCTF.md",
+    "01-DockerLabs/01-MyFacil/05-HedgeHog.md",
+    "01-DockerLabs/01-MyFacil/04-FirstHacking.md",
+    "01-DockerLabs/01-MyFacil/03-BreakMySSH.md",
+    "01-DockerLabs/01-MyFacil/02-Trust.md",
+    "01-DockerLabs/01-MyFacil/01-Injection.md",
+    "01-DockerLabs/02-Facil/20-BaluFood.md",
+    "01-DockerLabs/02-Facil/19-Bicho.md",
+    "01-DockerLabs/02-Facil/18-AppiBAse.md",
+    "01-DockerLabs/02-Facil/17-InternShip.md",
+    "01-DockerLabs/02-Facil/16-Extraviado.md",
+    "01-DockerLabs/02-Facil/15-Reflection.md",
+    "01-DockerLabs/02-Facil/14-Allien.md",
+    "01-DockerLabs/02-Facil/13-VulnVault.md",
+    "01-DockerLabs/02-Facil/12-Backend.md",
+    "01-DockerLabs/02-Facil/11-SecretJenkins.md",
+    "01-DockerLabs/02-Facil",
+    "01-DockerLabs/01-MyFacil",
+    "02-Vulnhub",
+    "01-DockerLabs"
+  ]
+}
