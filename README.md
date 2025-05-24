@@ -37,7 +37,7 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 #### 02 Facil
 
 - [01 Psycho](01-DockerLabs/02-Facil/01-Psycho.md)
-- [02 Pequenas Mentirosas](01-DockerLabs/02-Facil/02-Pequenas Mentirosas.md)
+- [02 PequenasMentirosas](01-DockerLabs/02-Facil/02-PequenasMentirosas.md)
 - [03 WhereIsMyWebShell](01-DockerLabs/02-Facil/03-WhereIsMyWebShell.md)
 - [04 Library](01-DockerLabs/02-Facil/04-Library.md)
 - [05 NodeClimb](01-DockerLabs/02-Facil/05-NodeClimb.md)
