@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/02-PequenasMentirosas.md",
+                "file": "01-DockerLabs/02-Facil/22-WalkingCMS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02-PequenasMentirosas"
+              "title": "22-WalkingCMS"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 446.5
+    "width": 200
   },
   "right": {
     "id": "acaf42dd2d10634b",
@@ -170,13 +170,15 @@
   },
   "active": "319be11f72156a5e",
   "lastOpenFiles": [
-    "README.md",
     "01-DockerLabs/02-Facil/02-PequenasMentirosas.md",
+    "01-DockerLabs/02-Facil/22-WalkingCMS.md",
+    "README.md",
+    "LICENSE.md.md",
+    "02-Pequenas.md",
     "01-DockerLabs/02-Facil/02-Pequenas.md",
     "01-DockerLabs/02-Facil/03-WhereIsMyWebShell.md",
     "01-DockerLabs/01-MyFacil/01-Injection.md",
     "LICENSE",
-    "LICENSE.md.md",
     "01-DockerLabs/02-Facil/21-Galeria.md",
     "02-Vulnhub/03-Presidential 1.md",
     "02-Vulnhub/02-Symfonos6.1.md",
@@ -195,8 +197,6 @@
     "01-DockerLabs/02-Facil/18-AppiBAse.md",
     "01-DockerLabs/02-Facil/17-InternShip.md",
     "01-DockerLabs/02-Facil/16-Extraviado.md",
-    "01-DockerLabs/02-Facil/15-Reflection.md",
-    "01-DockerLabs/02-Facil/14-Allien.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",
