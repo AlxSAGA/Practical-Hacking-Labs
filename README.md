@@ -57,3 +57,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 - [19 Bicho](01-DockerLabs/02-Facil/19-Bicho.md)
 - [20 BaluFood](01-DockerLabs/02-Facil/20-BaluFood.md)
 - [21 Galeria](01-DockerLabs/02-Facil/21-Galeria.md)
+- [22 WalkingCMS](01-DockerLabs/02-Facil/22-WalkingCMS.md)
