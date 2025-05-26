@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/23-Mirame.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "23-Mirame"
+              "title": "README"
             }
           }
         ],
@@ -185,6 +185,7 @@
   },
   "active": "383ecd68c9bb4f2c",
   "lastOpenFiles": [
+    "01-DockerLabs/02-Facil/24-Showtime.md",
     "README.md",
     "01-DockerLabs/02-Facil/23-Mirame.md",
     "01-DockerLabs/02-Facil/22-WalkingCMS.md",
@@ -211,7 +212,6 @@
     "01-DockerLabs/02-Facil/20-BaluFood.md",
     "01-DockerLabs/02-Facil/19-Bicho.md",
     "01-DockerLabs/02-Facil/18-AppiBAse.md",
-    "01-DockerLabs/02-Facil/17-InternShip.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",
