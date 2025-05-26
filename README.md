@@ -58,5 +58,5 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 - [20 BaluFood](01-DockerLabs/02-Facil/20-BaluFood.md)
 - [21 Galeria](01-DockerLabs/02-Facil/21-Galeria.md)
 - [22 WalkingCMS](01-DockerLabs/02-Facil/22-WalkingCMS.md)
-- [23  Mirame](01-DockerLabs/02-Facil/23-Mirame.md)
-- [24  ShowTime](01-DockerLabs/02-Facil/24-ShowTime.md)
+- [23 Mirame](01-DockerLabs/02-Facil/23-Mirame.md)
+- [24 ShowTime](24-ShowTime.md)
