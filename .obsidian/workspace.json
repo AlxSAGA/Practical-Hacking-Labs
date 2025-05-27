@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "adc9926d966a3d9c",
+        "id": "2ed17c271efd7865",
         "type": "tabs",
         "children": [
           {
-            "id": "319be11f72156a5e",
+            "id": "dd346885a22c457b",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,17 +22,17 @@
             }
           },
           {
-            "id": "383ecd68c9bb4f2c",
+            "id": "3825e46f6d3e76c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/25-Pinguinazo.md",
+                "file": "01-DockerLabs/02-Facil/27-ChocolateLovers.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "25-Pinguinazo"
+              "title": "27-ChocolateLovers"
             }
           }
         ]
@@ -182,10 +182,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "319be11f72156a5e",
+  "active": "dd346885a22c457b",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/25-Pinguinazo.md",
+    "01-DockerLabs/02-Facil/27-ChocolateLovers.md",
     "README.md",
+    "01-DockerLabs/02-Facil/26-Balulero.md",
+    "01-DockerLabs/02-Facil/25-Pinguinazo.md",
     "LICENSE.md.md",
     "01-DockerLabs/02-Facil/24-ShowTime.md",
     "01-DockerLabs/02-Facil/23-Mirame.md",
@@ -209,8 +211,6 @@
     "01-DockerLabs/01-MyFacil/04-FirstHacking.md",
     "01-DockerLabs/01-MyFacil/03-BreakMySSH.md",
     "01-DockerLabs/01-MyFacil/02-Trust.md",
-    "01-DockerLabs/02-Facil/20-BaluFood.md",
-    "01-DockerLabs/02-Facil/19-Bicho.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",

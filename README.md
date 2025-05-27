@@ -7,6 +7,7 @@ Este repositorio contiene mis resoluciones personales y anotaciones detalladas s
 *Este proyecto es parte de mi proceso de aprendizaje en ciberseguridad.*
 
 Repositorio con walkthroughs detallados de máquinas DockerLabs para práctica de ciberseguridad. Cada solución incluye:
+- 🔍 Reconocimiento
 - 🔍 Análisis de vulnerabilidades
 - ⚡ Explotación paso a paso
 - 🚀 Técnicas de escalado de privilegios
@@ -61,3 +62,5 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 - [23 Mirame](01-DockerLabs/02-Facil/23-Mirame.md)
 - [24 ShowTime](01-DockerLabs/02-Facil/24-ShowTime.md)
 - [25 Pinguinazo](01-DockerLabs/02-Facil/25-Pinguinazo.md)
+- [26 Balulero](01-DockerLabs/02-Facil/26-Balulero.md)
+- [27 ChocolateLovers](01-DockerLabs/02-Facil/27-ChocolateLovers)
