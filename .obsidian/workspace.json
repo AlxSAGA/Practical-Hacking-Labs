@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/24-ShowTime.md",
+                "file": "01-DockerLabs/02-Facil/25-Pinguinazo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "24-ShowTime"
+              "title": "25-Pinguinazo"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,14 +182,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "383ecd68c9bb4f2c",
+  "active": "319be11f72156a5e",
   "lastOpenFiles": [
+    "LICENSE.md.md",
+    "01-DockerLabs/02-Facil/25-Pinguinazo.md",
     "README.md",
-    "01-DockerLabs/02-Facil/23-Mirame.md",
     "01-DockerLabs/02-Facil/24-ShowTime.md",
+    "01-DockerLabs/02-Facil/23-Mirame.md",
     "01-DockerLabs/02-Facil/22-WalkingCMS.md",
     "01-DockerLabs/02-Facil/02-PequenasMentirosas.md",
-    "LICENSE.md.md",
     "02-Pequenas.md",
     "01-DockerLabs/02-Facil/02-Pequenas.md",
     "01-DockerLabs/02-Facil/03-WhereIsMyWebShell.md",
@@ -211,7 +211,6 @@
     "01-DockerLabs/01-MyFacil/02-Trust.md",
     "01-DockerLabs/02-Facil/20-BaluFood.md",
     "01-DockerLabs/02-Facil/19-Bicho.md",
-    "01-DockerLabs/02-Facil/18-AppiBAse.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",

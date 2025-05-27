@@ -60,3 +60,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 - [22 WalkingCMS](01-DockerLabs/02-Facil/22-WalkingCMS.md)
 - [23 Mirame](01-DockerLabs/02-Facil/23-Mirame.md)
 - [24 ShowTime](24-ShowTime.md)
+- [25 Pinguinazo](25-Pinguinazo.md)
