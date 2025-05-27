@@ -63,4 +63,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 - [24 ShowTime](01-DockerLabs/02-Facil/24-ShowTime.md)
 - [25 Pinguinazo](01-DockerLabs/02-Facil/25-Pinguinazo.md)
 - [26 Balulero](01-DockerLabs/02-Facil/26-Balulero.md)
-- [27 ChocolateLovers](01-DockerLabs/02-Facil/27-ChocolateLovers)
+- [27 ChocolateLovers](01-DockerLabs/02-Facil/27-ChocolateLovers.md)
