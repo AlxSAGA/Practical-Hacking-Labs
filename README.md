@@ -52,3 +52,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    | [26 Balulero](01-DockerLabs/02-Facil/26-Balulero.md)                    |
 |                                                                    | [27 ChocolateLovers](01-DockerLabs/02-Facil/27-ChocolateLovers.md)      |
 |                                                                    | [28 Redirection](01-DockerLabs/02-Facil/28-Redirection.md)              |
+|                                                                    | [29 Pn](01-DockerLabs/02-Facil/29-Pn.md)                                |
