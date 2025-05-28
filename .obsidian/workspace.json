@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/27-ChocolateLovers.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "27-ChocolateLovers"
+              "title": "README"
             }
           }
         ]
@@ -184,11 +184,14 @@
   },
   "active": "dd346885a22c457b",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/27-ChocolateLovers.md",
+    "01-DockerLabs/02-Facil/28-Redirection.md",
     "README.md",
+    "LICENSE.md.md",
+    "01-DockerLabs/02-Facil/Mentirosas.md",
+    "01-DockerLabs/02-Facil/02-PequenasMentirosa.md",
+    "01-DockerLabs/02-Facil/27-ChocolateLovers.md",
     "01-DockerLabs/02-Facil/26-Balulero.md",
     "01-DockerLabs/02-Facil/25-Pinguinazo.md",
-    "LICENSE.md.md",
     "01-DockerLabs/02-Facil/24-ShowTime.md",
     "01-DockerLabs/02-Facil/23-Mirame.md",
     "01-DockerLabs/02-Facil/22-WalkingCMS.md",
@@ -208,9 +211,6 @@
     "01-DockerLabs/01-MyFacil/07-Vacaciones.md",
     "01-DockerLabs/01-MyFacil/06-BorazuwarahCTF.md",
     "01-DockerLabs/01-MyFacil/05-HedgeHog.md",
-    "01-DockerLabs/01-MyFacil/04-FirstHacking.md",
-    "01-DockerLabs/01-MyFacil/03-BreakMySSH.md",
-    "01-DockerLabs/01-MyFacil/02-Trust.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",
