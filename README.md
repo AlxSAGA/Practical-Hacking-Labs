@@ -15,7 +15,8 @@ Repositorio con walkthroughs detallados de máquinas DockerLabs para práctica d
 
 ## 📜 Aviso Legal  
 Este repositorio contiene técnicas y procedimientos de seguridad informática que deben usarse **exclusivamente en entornos controlados y con autorización explícita**. El autor no se hace responsable del uso incorrecto o ilegal de esta información.
-**El autor no se responsabiliza por el uso de las tecnicas en entornos no éticos o ilegales.**  
+
+<p><strong>El autor no se responsabiliza por el uso de las tecnicas en entornos no éticos o ilegales.</strong></p>
 
 ---
 ## 🗂 Estructura
@@ -53,3 +54,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    | [27 ChocolateLovers](01-DockerLabs/02-Facil/27-ChocolateLovers.md)      |
 |                                                                    | [28 Redirection](01-DockerLabs/02-Facil/28-Redirection.md)              |
 |                                                                    | [29 Pn](01-DockerLabs/02-Facil/29-Pn.md)                                |
+|                                                                    | [30 Escolares](01-DockerLabs/02-Facil/30-Escolares.md)                  |
