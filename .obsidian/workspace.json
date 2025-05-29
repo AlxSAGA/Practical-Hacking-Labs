@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/00-Template.md",
+                "file": "00-Template.md",
                 "mode": "source",
                 "source": false
               },
@@ -182,10 +182,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "35e9b676bc3624a6",
+  "active": "a4b1007b9c57fff8",
   "lastOpenFiles": [
     "01-DockerLabs/02-Facil/30-Escolares.md",
-    "01-DockerLabs/00-Template.md",
+    "00-Template.md",
     "README.md",
     "01-DockerLabs/02-Facil/19-Bicho.md",
     "01-DockerLabs/02-Facil/29-Pn.md",
