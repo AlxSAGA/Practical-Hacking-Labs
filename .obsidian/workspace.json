@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/30-Escolares.md",
+                "file": "01-DockerLabs/00-Template.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "30-Escolares"
+              "title": "00-Template"
             }
           },
           {
@@ -184,8 +184,9 @@
   },
   "active": "35e9b676bc3624a6",
   "lastOpenFiles": [
-    "README.md",
     "01-DockerLabs/02-Facil/30-Escolares.md",
+    "01-DockerLabs/00-Template.md",
+    "README.md",
     "01-DockerLabs/02-Facil/19-Bicho.md",
     "01-DockerLabs/02-Facil/29-Pn.md",
     "01-DockerLabs/02-Facil/28-Redirection.md",
@@ -210,7 +211,6 @@
     "02-Vulnhub/01-IMF 1.md",
     "02-Vulnhub/04-Infovore 1.md",
     "01-DockerLabs/01-MyFacil/09-Obsession.md",
-    "01-DockerLabs/01-MyFacil/08-Tproot.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",
