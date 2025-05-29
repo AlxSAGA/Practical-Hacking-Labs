@@ -35,8 +35,7 @@
               "title": "README"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -183,10 +182,10 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "9834b87c10c557c6",
+  "active": "35e9b676bc3624a6",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/30-Escolares.md",
     "README.md",
+    "01-DockerLabs/02-Facil/30-Escolares.md",
     "01-DockerLabs/02-Facil/19-Bicho.md",
     "01-DockerLabs/02-Facil/29-Pn.md",
     "01-DockerLabs/02-Facil/28-Redirection.md",
