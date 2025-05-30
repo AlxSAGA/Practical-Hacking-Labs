@@ -4,7 +4,7 @@
 
 - Tags: `[Etiqueta1]` `[Etiqueta2]` `[Etiqueta3]`
 - Dificultad: `[Baja/Media/Alta/Insane]`
-- Plataforma: `[HTB/VulnHub/TryHackMe/etc]`
+- Plataforma: `[HTB/VulnHub/TryHackMe/Dockerlabs/etc]`
 
 ---
 ## Enlace al laboratorio
@@ -21,11 +21,13 @@
 
 ## Fase de Reconocimiento
 ### Identificación del Target
+Lanzamos una traza **ICMP** para determinar si tenemos conectividad con el target
 ```bash
-ping -c 1 [IP_TARGET]
+ping -c 1 [IP_TARGET] 
 ```
 
 ### Determinacion del SO
+Usamos nuestra herramienta en python para determinar ante que tipo de sistema opertivo nos estamos enfrentando
 ```bash
 wichSystem.py [IP_TARGET]
 # TTL: [Valor] -> [Sistema_Operativo]
@@ -35,7 +37,7 @@ wichSystem.py [IP_TARGET]
 ## Enumeracion de Puertos y Servicios
 ### Descubrimiento de Puertos
 ```bash
-# Escaneo rápido con herramienta personalizada
+# Escaneo rápido con herramienta personalizada en python
 escanerTCP.py -t [IP_TARGET] -p [Rango_Puertos]
 
 # Escaneo con Nmap
@@ -44,6 +46,7 @@ extractPorts allPorts # Parseamos la informacion mas relevante del primer escane
 ```
 
 ### Análisis de Servicios
+Realizamos un escaneo exhaustivo para determinar los servicios y las versiones que corren detreas de estos puertos
 ```bash
 nmap -sCV -p[Puertos_Abiertos] [IP_TARGET] -oN targeted
 ```
@@ -53,13 +56,14 @@ nmap -sCV -p[Puertos_Abiertos] [IP_TARGET] -oN targeted
 2. `[Puerto]/[Protocolo]`: [Servicio] ([Versión])
 ---
 
-## Enumeracion de [Servicio_Principal]
+## Enumeracion de [Servicio  Principal]
 ### Tecnologías Detectadas
 Realizamos deteccion de las tecnologias empleadas por la web
 ```bash
 whatweb http://[IP_TARGET]
 ```
 
+Lanzamos un script de **Nmap** para reconocimiento de rutas
 ```bash
 nmap --script http-enum -p [PORT] [IP_TARGET]
 ```
@@ -126,7 +130,7 @@ find / -perm -4000 2>/dev/null
 ```bash
 # Captura de pantalla o output final
 whoami
-cat /root/proof.txt
+root
 ```
 
 ---
@@ -141,13 +145,3 @@ cat /root/proof.txt
 - [Recomendación 2]
 - [Recomendación 3]
 
-```
-## Instrucciones de Uso:
-1. Reemplazar los contenidos entre `[corchetes]` con la información específica de la máquina
-2. Ajustar las secciones según las características del objetivo
-3. Eliminar secciones no utilizadas
-4. Agregar capturas de pantalla o outputs importantes donde sea necesario
-5. Personalizar las lecciones aprendidas y recomendaciones
-  ```
-
-Este template incluye todas las secciones esenciales para un writeup completo y sigue el formato que yo uso para mis reportes, manteniendo la estructura de código, hallazgos y fases de ataque organizadas segun mi metodologia.

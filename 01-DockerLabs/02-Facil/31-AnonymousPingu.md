@@ -8,7 +8,7 @@
 
 ---
 ## Enlace al laboratorio
-[Maquina Anonymoues](https://mega.nz/file/dOMzjDjS#hByTSHdcOL9E3v8bI5Yd0SWEyYyrhwn5FvA2PUAY5pE)
+[Maquina Anonymous](https://mega.nz/file/dOMzjDjS#hByTSHdcOL9E3v8bI5Yd0SWEyYyrhwn5FvA2PUAY5pE)
 
 ## Configuración del Entorno
 ```bash
@@ -77,7 +77,7 @@ Tenemos capacidad de escritura sobre este direcorio: **( upload )** aqui podemos
 drwxrwxrwx    2 33       33           4096 Apr 28  2024 upload
 ```
 
-## Enumeración de `[Servicio_Principal]`
+## Enumeración de `[Servicio Web Principal]`
 ### Tecnologías Detectadas
 ```bash
 whatweb http://[IP_TARGET] # Realizamos deteccion de las tecnologias empleadas por la web.

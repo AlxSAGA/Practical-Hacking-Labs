@@ -15,11 +15,20 @@ Repositorio con walkthroughs detallados de máquinas DockerLabs para práctica d
 
 ## 📜 Aviso Legal  
 Este repositorio contiene técnicas y procedimientos de seguridad informática que deben usarse **exclusivamente en entornos controlados y con autorización explícita**. El autor no se hace responsable del uso incorrecto o ilegal de esta información.
-
-<p><strong>El autor no se responsabiliza por el uso de las tecnicas en entornos no éticos o ilegales.</strong></p>
+**El autor no se responsabiliza por el uso de las tecnicas en entornos no éticos o ilegales**
 
 ---
 ## 🗂 Estructura
+**Nota** Disponible un **( [Writeup Template](/00-Template.md) )** Este template incluye todas las secciones esenciales para un writeup completo y sigue el formato que yo uso para mis reportes, manteniendo la estructura de código, hallazgos y fases de ataque organizadas segun mi metodologia.
+
+```txt
+# Instrucciones de Uso:
+1. Reemplazar los contenidos entre `[corchetes]` con la información específica de la máquina
+2. Ajustar las secciones según las características del objetivo
+3. Eliminar secciones no utilizadas
+4. Agregar capturas de pantalla o outputs importantes donde sea necesario
+5. Personalizar las lecciones aprendidas y recomendaciones
+```
 
 ### Maquinas DockerLabs
 
