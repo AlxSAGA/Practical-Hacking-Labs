@@ -6,7 +6,7 @@
 
 ---
 ## Enlace al laboratorio
-`[Enlace_Descarga_o_Acceso]`
+[Maquina File](https://mega.nz/file/yAUAGKbJ#yDt6iFURxBS-0ZZinTSXuNPM0HtOfkxvOTqXAw63lp8)
 
 ## Configuración del Entorno
 ```bash

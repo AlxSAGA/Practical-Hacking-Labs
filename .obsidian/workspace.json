@@ -8,21 +8,21 @@
         "type": "tabs",
         "children": [
           {
-            "id": "4116f2c0f9ac11e8",
+            "id": "452c1a005f0d387b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-DockerLabs/02-Facil/33-FindYourStyle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "33-FindYourStyle"
             }
           },
           {
-            "id": "452c1a005f0d387b",
+            "id": "5f5f07ddd1ca0646",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -182,11 +182,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "4116f2c0f9ac11e8",
+  "active": "452c1a005f0d387b",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/32-File.md",
     "README.md",
+    "01-DockerLabs/02-Facil/33-FindYourStyle.md",
     "00-Template.md",
+    "01-DockerLabs/02-Facil/32-File.md",
     "01-DockerLabs/00-Template.md",
     "01-DockerLabs/02-Facil/31-AnonymousPingu.md",
     "01-DockerLabs/02-Facil/30-Escolares.md",
@@ -210,7 +211,6 @@
     "LICENSE",
     "01-DockerLabs/02-Facil/21-Galeria.md",
     "02-Vulnhub/03-Presidential 1.md",
-    "02-Vulnhub/02-Symfonos6.1.md",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
     "02-Vulnhub",
