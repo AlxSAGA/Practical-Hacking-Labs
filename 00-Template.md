@@ -20,6 +20,11 @@
 ---
 
 ## Fase de Reconocimiento
+
+### Direccion IP del Target
+```bash
+[IP_TARGET]
+```
 ### Identificación del Target
 Lanzamos una traza **ICMP** para determinar si tenemos conectividad con el target
 ```bash
@@ -129,6 +134,9 @@ find / -perm -4000 2>/dev/null
 - Credenciales de usuario: `[Usuario]:[Contraseña]`
 
 ### Explotacion de Privilegios
+
+###### Usuario `[ Nombre-Usuario ]`:
+
 ```bash
 # Comando para escalar al usuario: ( root )
 [comando_escalada]
