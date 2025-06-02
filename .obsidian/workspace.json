@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "f2828e303bab301c",
+        "id": "b04167a7205e3637",
         "type": "tabs",
         "children": [
           {
-            "id": "8dff5fce41d3dbbf",
+            "id": "0e2f26281edee2ef",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -168,13 +168,14 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "8dff5fce41d3dbbf",
+  "active": "0e2f26281edee2ef",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/36-ByPassme.md",
+    "01-DockerLabs/02-Facil/37-Amor.md",
     "README.md",
+    "00-Template.md",
+    "01-DockerLabs/02-Facil/36-ByPassme.md",
     "01-DockerLabs/02-Facil/34-Whoiam.md",
     "01-DockerLabs/02-Facil/35-Jenkhack.md",
-    "00-Template.md",
     "LICENSE.md.md",
     "01-DockerLabs/02-Facil/24-ShowTime.md",
     "01-DockerLabs/02-Facil/21-Galeria.md",
@@ -195,7 +196,6 @@
     "01-DockerLabs/02-Facil/23-Mirame.md",
     "01-DockerLabs/02-Facil/22-WalkingCMS.md",
     "01-DockerLabs/02-Facil/02-PequenasMentirosas.md",
-    "02-Pequenas.md",
     "LICENSE",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
