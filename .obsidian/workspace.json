@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "43-Pntopntobarra"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/42-Winterfell.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "42-Winterfell"
+              "title": "README"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +183,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "1b60eed055af6abb",
+  "active": "248885af62b38b30",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/42-Winterfell.md",
-    "00-Template.md",
+    "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
     "README.md",
+    "00-Template.md",
+    "01-DockerLabs/02-Facil/42-Winterfell.md",
     "Sin título.md",
     "01-DockerLabs/02-Facil/41-Picadilly.md",
     "01-DockerLabs/02-Facil/40-Los40Ladrones.md",
@@ -209,7 +211,6 @@
     "01-DockerLabs/02-Facil/29-Pn.md",
     "01-DockerLabs/02-Facil/28-Redirection.md",
     "01-DockerLabs/02-Facil/Mentirosas.md",
-    "01-DockerLabs/02-Facil/02-PequenasMentirosa.md",
     "LICENSE",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
