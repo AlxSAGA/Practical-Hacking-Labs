@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "01-DockerLabs/02-Facil/40-Los40Ladrones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "40-Los40Ladrones"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/39-Pressenter.md",
+                "file": "01-DockerLabs/02-Facil/40-Los40Ladrones.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "39-Pressenter"
+              "title": "40-Los40Ladrones"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,11 +183,12 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "fe09a29edf315f5b",
+  "active": "a212af5abf0e3752",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/39-Pressenter.md",
     "README.md",
+    "01-DockerLabs/02-Facil/40-Los40Ladrones.md",
     "00-Template.md",
+    "01-DockerLabs/02-Facil/39-Pressenter.md",
     "01-DockerLabs/02-Facil/38-AguaDeMayo.md",
     "01-DockerLabs/02-Facil/37-Amor.md",
     "LICENSE.md.md",
@@ -209,7 +211,6 @@
     "01-DockerLabs/02-Facil/27-ChocolateLovers.md",
     "01-DockerLabs/02-Facil/26-Balulero.md",
     "01-DockerLabs/02-Facil/25-Pinguinazo.md",
-    "01-DockerLabs/02-Facil/23-Mirame.md",
     "LICENSE",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
