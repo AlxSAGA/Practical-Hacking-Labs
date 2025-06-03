@@ -57,8 +57,9 @@ nmap -sCV -p[Puertos_Abiertos] [IP_TARGET] -oN targeted
 ```
 
 **Servicios identificados:**
-1. `[Puerto]/[Protocolo]`: [Servicio] ([Versión])
-2. `[Puerto]/[Protocolo]`: [Servicio] ([Versión])
+```bash
+# Aqui los servicios
+```
 ---
 
 ## Enumeracion de [Servicio  Principal]
@@ -78,8 +79,9 @@ gobuster dir -u http://[IP_TARGET]/[Ruta] -w [Diccionario] -t [Hilos] [Opciones_
 ```
 
 **Hallazgos Relevantes:**
-- `[Ruta_Importante]`: [Descripción]
-- `[Ruta_Importante]`: [Descripción]
+```bash
+# Aqui las rutas importante
+```
 
 ### Descubrimiento de Archivos
 ```bash
