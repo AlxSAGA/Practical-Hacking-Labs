@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
+                "file": "01-DockerLabs/02-Facil/44-Paradise.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "43-Pntopntobarra"
+              "title": "44-Paradise"
             }
           },
           {
@@ -185,9 +185,10 @@
   },
   "active": "248885af62b38b30",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
+    "01-DockerLabs/02-Facil/44-Paradise.md",
     "README.md",
     "00-Template.md",
+    "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
     "01-DockerLabs/02-Facil/42-Winterfell.md",
     "Sin título.md",
     "01-DockerLabs/02-Facil/41-Picadilly.md",
@@ -210,7 +211,6 @@
     "01-DockerLabs/02-Facil/19-Bicho.md",
     "01-DockerLabs/02-Facil/29-Pn.md",
     "01-DockerLabs/02-Facil/28-Redirection.md",
-    "01-DockerLabs/02-Facil/Mentirosas.md",
     "LICENSE",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
