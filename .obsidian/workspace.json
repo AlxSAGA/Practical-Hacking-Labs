@@ -4,25 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "312428cbee3a64ab",
+        "id": "2e7e43b745f91f6f",
         "type": "tabs",
         "children": [
           {
-            "id": "82e9722241a82c96",
+            "id": "57051e46288c8e57",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01-DockerLabs/02-Facil/49-PatriaQuerida.md",
+                "file": "01-DockerLabs/02-Facil/50-PkgPoison.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "49-PatriaQuerida"
+              "title": "50-PkgPoison"
             }
           },
           {
-            "id": "222ed5de8b3bfe3a",
+            "id": "2844a8dcb9bb6c38",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -183,13 +183,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "222ed5de8b3bfe3a",
+  "active": "2844a8dcb9bb6c38",
   "lastOpenFiles": [
-    "01-DockerLabs/02-Facil/49-PatriaQuerida.md",
+    "01-DockerLabs/02-Facil/50-PkgPoison.md",
     "README.md",
     "00-Template.md",
-    "01-DockerLabs/02-Facil/48-Elevator.md",
-    "01-DockerLabs/02-Facil/47-Dockerlabs.md",
+    "01-DockerLabs/02-Facil/49-WalkingDead.md",
+    "01-DockerLabs/02-Facil/48-PatriaQuerida.md",
+    "01-DockerLabs/02-Facil/47-Elevator.md",
+    "01-DockerLabs/02-Facil/46-Dockerlabs.md",
     "01-DockerLabs/02-Facil/45-StellaJWT.md",
     "01-DockerLabs/02-Facil/44-Paradise.md",
     "01-DockerLabs/02-Facil/43-Pntopntobarra.md",
@@ -209,8 +211,6 @@
     "01-DockerLabs/02-Facil/18-AppiBAse.md",
     "01-DockerLabs/02-Facil/33-FindYourStyle.md",
     "01-DockerLabs/02-Facil/32-File.md",
-    "01-DockerLabs/00-Template.md",
-    "01-DockerLabs/02-Facil/31-AnonymousPingu.md",
     "LICENSE",
     "01-DockerLabs/02-Facil",
     "01-DockerLabs/01-MyFacil",
