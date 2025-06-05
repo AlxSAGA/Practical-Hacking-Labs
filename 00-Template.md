@@ -4,7 +4,7 @@
 
 - Tags: `[Etiqueta1]` `[Etiqueta2]` `[Etiqueta3]`
 - Dificultad: `[Baja/Media/Alta/Insane]`
-- Plataforma: `[HTB/VulnHub/TryHackMe/Dockerlabs/etc]`
+- Plataforma: `[HTB/VulnHub/TryHackMe/Dockerlabs/HackMyVM/etc]`
 
 ---
 ## Enlace al laboratorio
