@@ -10,7 +10,7 @@
 ## Enlace al laboratorio
 `[Enlace_Descarga_o_Acceso]`
 
-## Configuración del Entorno
+## Configuracion del Entorno
 ```bash
 # Comandos para desplegar el laboratorio
 [comando_descompresion] [archivo_laboratorio]
@@ -18,7 +18,6 @@
 ```
 
 ---
-
 ## Fase de Reconocimiento
 
 ### Direccion IP del Target
