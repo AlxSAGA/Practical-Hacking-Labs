@@ -62,6 +62,10 @@ nmap -sCV -p[Puertos_Abiertos] [IP_TARGET] -oN targeted
 ---
 
 ## Enumeracion de [Servicio  Principal]
+direccion **URL** del servicio:
+```bash
+http://IP
+```
 ### Tecnologías Detectadas
 Realizamos deteccion de las tecnologias empleadas por la web
 ```bash
