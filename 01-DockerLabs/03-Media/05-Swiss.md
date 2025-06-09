@@ -1,4 +1,3 @@
-
 # Writeup Template: Maquina `[ Swiss ]`
 
 - Tags: #Swiss
