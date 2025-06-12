@@ -97,6 +97,13 @@ gobuster dir -u http://[IP_TARGET]/[Ruta] -w [Diccionario] -t [Hilos] -x [Extens
 /backup (Status: 301) [Size: 315]
 ```
 
+### Descubrimiento de Subdominios
+```bash
+wfuzz -c -w [Diccionario] -H "Host:FUZZ.Aqui la URL" -u [IP_Objetivo]
+```
+
+- **Hallazgos**:
+	Aqui los subdominios
 ### Credenciales Encontradas
 - Usuario: `[Usuario]`
 - Contraseña: `[Contraseña]`
