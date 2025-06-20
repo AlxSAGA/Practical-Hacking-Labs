@@ -574,13 +574,3 @@ root
 ```
 
 ---
-
-## Lecciones Aprendidas
-1. [Lección 1]
-2. [Lección 2]
-3. [Lección 3]
-
-## Recomendaciones de Seguridad
-- [Recomendación 1]
-- [Recomendación 2]
-- [Recomendación 3]
