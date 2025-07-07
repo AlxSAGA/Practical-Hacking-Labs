@@ -7,7 +7,7 @@
 
 ---
 ## Enlace al laboratorio
-[Maquina ChocolateFire](https://mega.nz/file/wWslhSQS#jmz3PksTmtOaitgKwS7dcgc8Vd7o6pECPViav9clzwA)
+[Maquina ChocolateFire](https://mega.nz/file/wWslhSQS#jmz3PksTmtOaitgKwS7dcgc8Vd7o6pECPViav9clzwA) Laboratorio orientado a pruebas de pentesting en servidores web con autenticación insegura.
 
 ## Configuracion del Entorno
 ```bash
