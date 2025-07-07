@@ -85,4 +85,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    | [49 WalkingDead](01-DockerLabs/02-Facil/49-WalkingDead.md)              | [49 DockHackLab](01-DockerLabs/03-Media/49-DockHackLab.md)           |
 |                                                                    | [50 PkgPoison](01-DockerLabs/02-Facil/50-PkgPoison.md)                  | [50 BashPariencias](01-DockerLabs/03-Media/50-BashPariencias.md)     |
 |                                                                    | [51 ForbiddenHack](01-DockerLabs/02-Facil/51-ForbiddenHack.md)          | [51 Fooding](01-DockerLabs/03-Media/51-Fooding.md)                   |
-|                                                                    | [52 InfluencerHate](01-DockerLabs/02-Facil/52-InfluencerHate.md)        |                                                                      |
+|                                                                    | [52 InfluencerHate](01-DockerLabs/02-Facil/52-InfluencerHate.md)        | [52 ChocolateFire](01-DockerLabs/03-Media/52-ChocolateFire.md)       |
