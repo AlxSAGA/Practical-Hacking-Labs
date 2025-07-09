@@ -89,3 +89,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    |                                                                         | [53 Eclipse](01-DockerLabs/03-Media/53-Eclipse.md)                   |
 |                                                                    |                                                                         | [54 Wallet](01-DockerLabs/03-Media/54-Wallet.md)                     |
 |                                                                    |                                                                         | [55 CaChopo](01-DockerLabs/03-Media/55-CaChopo.md)                   |
+|                                                                    |                                                                         | [56 Craker](01-DockerLabs/03-Media/56-Craker.md)                     |
