@@ -92,3 +92,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    |                                                                         | [56 Craker](01-DockerLabs/03-Media/56-Craker.md)                     |
 |                                                                    |                                                                         | [57 Express](01-DockerLabs/03-Media/57-Express.md)                   |
 |                                                                    |                                                                         | [58 Unrecover](01-DockerLabs/03-Media/58-Unrecover.md)               |
+|                                                                    |                                                                         | [59-ApiRoot](01-DockerLabs/03-Media/59-ApiRoot.md)                   |
