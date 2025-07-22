@@ -94,3 +94,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    |                                                                         | [58 Unrecover](01-DockerLabs/03-Media/58-Unrecover.md)               |
 |                                                                    |                                                                         | [59-ApiRoot](01-DockerLabs/03-Media/59-ApiRoot.md)                   |
 |                                                                    |                                                                         | [60 CristalTeam](01-DockerLabs/03-Media/60-CristalTeam.md)           |
+|                                                                    |                                                                         | [61 Cyberguard](01-DockerLabs/03-Media/61-Cyberguard.md)             |
