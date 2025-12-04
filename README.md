@@ -98,3 +98,4 @@ Este repositorio contiene técnicas y procedimientos de seguridad informática q
 |                                                                    |                                                                         | [62 TheDog](01-DockerLabs/03-Media/62-TheDog.md)                     |
 |                                                                    |                                                                         | [63 Ofuskeit](01-DockerLabs/03-Media/63-Ofuskeit.md)                 |
 |                                                                    |                                                                         | [64 Bola](01-DockerLabs/03-Media/64-Bola.md)                         |
+|                                                                    |                                                                         | [66 Perrito Magico](01-DockerLabs/03-Media/66-Perrito-Magico.md)     |
